@@ -1,0 +1,2 @@
+# NEU_linux_homework
+东北大学软件学院19级Linux课程作业与实验
